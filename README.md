@@ -2,6 +2,34 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# User List App
+
+This project is a simple React application that fetches and displays a list of users from an external API. With the goal of practicing API consumption, React hooks, and basic styling.
+
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Instructions](#instructions)
+- [Dependencies](#dependencies)
+- [Features](#features)
+- [Styling](#styling)
+
+## Getting Started
+
+To get started, clone this repository and follow the steps below to set up and run the project on your local machine.
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) installed on your machine
+- Basic knowledge of React and JavaScript
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/user-list-app.git
+   cd user-list-app
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
